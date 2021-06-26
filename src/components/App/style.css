@@ -1,0 +1,14 @@
+.app-base-row
+{
+    background-color: #EE8D1C;
+}
+
+h1, p
+{
+    color: white;
+}
+
+input:focus
+{
+    border-color: #62BAAC;
+}
