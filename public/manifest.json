@@ -4,7 +4,7 @@
     "lang": "en-US",
     "start_url": "/",
     "display": "standalone",
-    "orientation": "any"
+    "orientation": "any",
     "theme_color": "#ee8d1c",
     "icons": [
         {
