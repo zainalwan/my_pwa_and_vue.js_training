@@ -1,6 +1,6 @@
 {
     "name": "My PWA and Vue.js Training",
-    "short_name": "Training",
+    "short_name": "My Training",
     "lang": "en-US",
     "start_url": "/",
     "display": "standalone",
