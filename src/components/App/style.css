@@ -12,3 +12,10 @@ input:focus
 {
     border-color: #62BAAC;
 }
+
+.footer
+{
+    z-index: 999;
+    color: white;
+    bottom: 20px;
+}
