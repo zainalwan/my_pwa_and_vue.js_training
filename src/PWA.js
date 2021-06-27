@@ -1,3 +1,4 @@
+// This code wa below taken from https://developers.google.com/web/fundamentals/primers/service-workers/
 export default {
     init()
     {
@@ -14,3 +15,4 @@ export default {
         }
     }
 }
+// This code wa above taken from https://developers.google.com/web/fundamentals/primers/service-workers/
