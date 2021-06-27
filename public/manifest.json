@@ -4,6 +4,7 @@
     "lang": "en-US",
     "start_url": "/",
     "display": "standalone",
+    "orientation": "any"
     "theme_color": "#ee8d1c",
     "icons": [
         {
@@ -39,5 +40,5 @@
             "sizes": "512x512"
         }
     ],
-    "background_color": "#ee8d1c"
+    "background_color": "#ffffff"
 }
