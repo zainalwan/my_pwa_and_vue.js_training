@@ -17,12 +17,17 @@
                         <input
                             v-model="name"
                             type="text"
-                            class="form-control shadow-none rounded-1"
+                            class="form-control shadow-none rounded-1 text-center"
                             placeholder="Enter your name here..."
                             autofocus>
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="row footer position-fixed start-0 end-0">
+        <div class="col text-center">
+            <p class="mb-0"><small>Copyright 2021 by Zain</small></p>
         </div>
     </div>
 </template>
