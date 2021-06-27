@@ -1,24 +1,11 @@
-# vue_training
+# My PWA and Vue.js Training
 
-## Project setup
-```
-npm install
-```
+## Introduction
+This is my web app (source code) as my exercise of PWA and Vue.js. The web app
+has a feature to display the user's name. The web app was made using Vue.js and
+Bootstrap. Some codes were taken from developers.google.com to set up a part of
+the PWA.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+Vue.js, Bootstrap, and Google's codes use their own license. However, you might
+use, study, modify, and share my code.
