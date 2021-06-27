@@ -1,0 +1,43 @@
+{
+    "name": "My PWA and Vue.js Training",
+    "short_name": "Training",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ee8d1c",
+    "icons": [
+        {
+            "src": "logo/72x72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "logo/96x96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "logo/128x128.png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "logo/144x144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "logo/152x152.png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "logo/192x192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo/348x348.png",
+            "sizes": "348x348"
+        },
+        {
+            "src": "logo/512x512.png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#ee8d1c"
+}
